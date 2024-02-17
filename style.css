@@ -44,7 +44,7 @@ body {
     margin-bottom: 15px;
     background: url("pics/person-bounding-box\ 1.png");
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: right 10px center;
 }
 #pw {
     width: 305px;
@@ -62,7 +62,7 @@ body {
     margin-bottom: 15px;
     background: url("pics/eye-slash\ 1.png");
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: right 10px center;
 }
 
 #bttn {
