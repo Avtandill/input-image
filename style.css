@@ -1,0 +1,83 @@
+@font-face {
+    font-family: inter;
+    src: url("fonts/Inter-Regular.ttf");
+}
+
+body {
+    background-color: lightgray;
+}
+
+.registration {
+    width: 378px;
+    height: 489px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    background-color: #F5F5F5;
+    margin: auto;
+    margin-top: 131px;
+}
+
+#mac {
+    margin-left: 9.5px;
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+.labels {
+    font-size: 16px;
+    color: #616161;
+    font-weight: 500;
+    font-family: inter;
+}
+#email {
+    width: 305px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    outline: none;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    font-family: inter;
+    font-weight: 500;
+    color: #9E9E9E;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background: url("pics/person-bounding-box\ 1.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+#pw {
+    width: 305px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    outline: none;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    font-family: inter;
+    font-weight: 500;
+    color: #9E9E9E;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background: url("pics/eye-slash\ 1.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+#bttn {
+    width: 320px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #6756CB;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+form {
+    margin-left: 31.5px;
+}
